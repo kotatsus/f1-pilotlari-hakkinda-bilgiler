@@ -1,0 +1,42 @@
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(225, 0, 255);
+       background-image: url(emre.jpg);
+    background-size: 1600px;
+   background-repeat: no-repeat;
+    }
+    
+    .article{
+        position: relative;
+        width: 500px;
+        height: 150px;
+        margin: 5px;
+        left: 450px;
+        top: 35px; }
+    
+    .article2{
+        position: relative;
+        width: 500x;
+        height: 150px;
+        margin: -150px;
+        left: 1000px;
+        top: -135px;}
+
+
+
+
+
+    .fs-15{
+        font-size: 15px;
+    }
+    .fs-30{
+        font-size: 30px;
+    }
+    .text-blue{
+        color: blue;
+    }
+    
+    .text-red{
+        color:red;
+    }
